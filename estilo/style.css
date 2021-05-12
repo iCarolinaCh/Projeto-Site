@@ -8,10 +8,10 @@ body {
 }
 
 main {
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(61, 129, 255);
     width: 500px;
     margin: auto;
-    padding: 500px;
+    padding: 20px;
     box-shadow: 3px 3px 5px;
 }
 
